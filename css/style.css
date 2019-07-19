@@ -1,0 +1,72 @@
+*{
+	margin: 0;
+	padding: 0;
+	outline: 0;
+}
+header{
+	background: url(../img/bg2.jpg);
+	background-size: cover;
+	width: 100%;
+	float: left;
+}
+.title{
+	    width: 45%;
+    float: left;
+    padding: 10px 10px;
+    margin-left: 10px;
+	
+
+}
+.title h1{
+	font-size: 30px;
+	text-transform: uppercase;
+	color: #fff;
+}
+.title p{
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 15px
+}
+.title ul{
+	color: #fff;
+	text-decoration: none;
+	list-style: none;
+}
+.title  ul li{
+  margin: 10px;
+}
+.title i{
+	margin: 5px;
+}
+.btn{
+	margin-left: 20px;
+	padding: 7px;
+	border-radius: 20px;
+	text-transform: uppercase;
+	background: blue;
+	color: white;
+}
+.lgn{
+	width: 45%;
+	background: aqua;
+	float: left;
+	margin: 30px;
+	text-align: center;
+}
+.lgn form{
+    padding: 20px;
+   
+}
+.lgn input{
+	margin: 5px;
+	padding: 5px;
+}
+.btn2{
+
+	padding: 7px;
+	border-radius: 20px;
+	text-transform: uppercase;
+	background: blue;
+	color: white;
+}
+}
